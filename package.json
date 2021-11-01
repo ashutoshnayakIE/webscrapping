@@ -1,0 +1,25 @@
+{
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "This project contains code created while learning web scrapping using nodejs and scrapy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshnayakIE/webscrapping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshnayakIE/webscrapping/issues"
+  },
+  "homepage": "https://github.com/ashutoshnayakIE/webscrapping#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
